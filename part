@@ -1,0 +1,53 @@
+leadStatus options
+    new
+    contacted
+    qualified
+    unqualified
+    converted
+    lost
+leadPriority options
+    low
+    normal
+    high
+leadActivityType options
+    call
+    message
+    email
+    meeting
+    note
+    task
+leadSource
+    title
+    code
+    description optional
+    unique code
+lead
+    title
+    number
+    contact
+    leadSource optional
+    leadStatus
+    leadPriority optional
+    assignedPerson optional
+    interestedItem optional
+    expectedValue realNumber optional
+    currency optional
+    nextFollowUpDate optional
+    description optional
+    unique number
+leadActivity
+    lead
+    leadActivityType
+    activityDate
+    person optional
+    outcome optional
+    nextFollowUpDate optional
+    description optional
+leadConversion
+    lead
+    customer
+    order optional
+    convertedDate
+    value realNumber optional
+    currency optional
+    unique lead

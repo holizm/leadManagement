@@ -1,0 +1,16 @@
+{
+    "leadManagementAssignedPerson": "مسئول پیگیری",
+    "leadManagementCode": "کد",
+    "leadManagementContact": "مخاطب",
+    "leadManagementDescription": "توضیحات",
+    "leadManagementExpectedValue": "ارزش مورد انتظار",
+    "leadManagementLead": "سرنخ فروش",
+    "leadManagementLeadManagement": "مدیریت سرنخ‌ها",
+    "leadManagementLeadSource": "منبع سرنخ",
+    "leadManagementLeadSources": "منابع سرنخ",
+    "leadManagementLeads": "سرنخ‌ها",
+    "leadManagementNextFollowUpDate": "تاریخ پیگیری بعدی",
+    "leadManagementNumber": "شماره",
+    "leadManagementPriority": "اولویت",
+    "leadManagementStatus": "وضعیت"
+}

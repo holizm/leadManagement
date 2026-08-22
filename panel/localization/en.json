@@ -1,0 +1,16 @@
+{
+    "leadManagementAssignedPerson": "Assigned person",
+    "leadManagementCode": "Code",
+    "leadManagementContact": "Contact",
+    "leadManagementDescription": "Description",
+    "leadManagementExpectedValue": "Expected value",
+    "leadManagementLead": "Lead",
+    "leadManagementLeadManagement": "Lead management",
+    "leadManagementLeadSource": "Lead source",
+    "leadManagementLeadSources": "Lead sources",
+    "leadManagementLeads": "Leads",
+    "leadManagementNextFollowUpDate": "Next follow-up date",
+    "leadManagementNumber": "Number",
+    "leadManagementPriority": "Priority",
+    "leadManagementStatus": "Status"
+}
