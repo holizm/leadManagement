@@ -1,4 +1,4 @@
 export default props => <form
-    class='leadForm'
+    class='form'
     {...props}
 />
