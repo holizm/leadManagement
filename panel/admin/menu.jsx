@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: 'personSearch',
+        path: '/leadManagement',
         title: 'leadManagementLeadManagement',
     },
 ]
