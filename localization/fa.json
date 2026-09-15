@@ -1,0 +1,24 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "assignedPerson": "مسئول پیگیری",
+        "code": "کد",
+        "contact": "مخاطب",
+        "description": "توضیحات",
+        "expectedValue": "ارزش مورد انتظار",
+        "lead": "سرنخ فروش",
+        "leadManagement": "مدیریت سرنخ‌ها",
+        "leadSource": "منبع سرنخ",
+        "leadSources": "منابع سرنخ",
+        "leads": "سرنخ‌ها",
+        "nextFollowUpDate": "تاریخ پیگیری بعدی",
+        "number": "شماره",
+        "priority": "اولویت",
+        "status": "وضعیت"
+    },
+    "site": {
+        "contactUs": "با ما تماس بگیرید",
+        "submit": "ثبت درخواست"
+    }
+}

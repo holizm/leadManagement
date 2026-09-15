@@ -1,0 +1,24 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "assignedPerson": "Assigned person",
+        "code": "Code",
+        "contact": "Contact",
+        "description": "Description",
+        "expectedValue": "Expected value",
+        "lead": "Lead",
+        "leadManagement": "Lead management",
+        "leadSource": "Lead source",
+        "leadSources": "Lead sources",
+        "leads": "Leads",
+        "nextFollowUpDate": "Next follow-up date",
+        "number": "Number",
+        "priority": "Priority",
+        "status": "Status"
+    },
+    "site": {
+        "contactUs": "Contact us",
+        "submit": "Submit request"
+    }
+}
