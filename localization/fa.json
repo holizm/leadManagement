@@ -1,8 +1,5 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
-        "assignedPerson": "مسئول پیگیری",
+    "common": {
         "code": "کد",
         "contact": "مخاطب",
         "description": "توضیحات",
@@ -15,10 +12,11 @@
         "nextFollowUpDate": "تاریخ پیگیری بعدی",
         "number": "شماره",
         "priority": "اولویت",
-        "status": "وضعیت"
-    },
-    "site": {
+        "status": "وضعیت",
         "contactUs": "با ما تماس بگیرید",
         "submit": "ثبت درخواست"
+    },
+    "panel": {
+        "assignedPerson": "مسئول پیگیری"
     }
 }
