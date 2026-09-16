@@ -33,7 +33,7 @@ const inputs = <>
             'converted',
             'lost',
         ]}
-        placeholder='leadManagementStatus'
+        placeholder='stateMachinesState'
         property='leadStatus'
         required
     />

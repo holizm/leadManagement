@@ -12,7 +12,7 @@ const headers = <>
     <th>leadManagementContact</th>
     <th>leadManagementAssignedPerson</th>
     <th>leadManagementNextFollowUpDate</th>
-    <th>leadManagementStatus</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>
