@@ -7,9 +7,7 @@
         "leadSource": "Lead source",
         "leadSources": "Lead sources",
         "leads": "Leads",
-        "nextFollowUpDate": "Next follow-up date",
-        "contactUs": "Contact us",
-        "submit": "Submit request"
+        "nextFollowUpDate": "Next follow-up date"
     },
     "panel": {
         "assignedPerson": "Assigned person"
