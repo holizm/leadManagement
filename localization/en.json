@@ -1,8 +1,6 @@
 {
     "common": {
-        "code": "Code",
         "contact": "Contact",
-        "description": "Description",
         "expectedValue": "Expected value",
         "lead": "Lead",
         "leadManagement": "Lead management",
@@ -10,9 +8,6 @@
         "leadSources": "Lead sources",
         "leads": "Leads",
         "nextFollowUpDate": "Next follow-up date",
-        "number": "Number",
-        "priority": "Priority",
-        "status": "Status",
         "contactUs": "Contact us",
         "submit": "Submit request"
     },

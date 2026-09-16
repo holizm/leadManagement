@@ -1,8 +1,6 @@
 {
     "common": {
-        "code": "کد",
         "contact": "مخاطب",
-        "description": "توضیحات",
         "expectedValue": "ارزش مورد انتظار",
         "lead": "سرنخ فروش",
         "leadManagement": "مدیریت سرنخ‌ها",
@@ -10,9 +8,6 @@
         "leadSources": "منابع سرنخ",
         "leads": "سرنخ‌ها",
         "nextFollowUpDate": "تاریخ پیگیری بعدی",
-        "number": "شماره",
-        "priority": "اولویت",
-        "status": "وضعیت",
         "contactUs": "با ما تماس بگیرید",
         "submit": "ثبت درخواست"
     },
