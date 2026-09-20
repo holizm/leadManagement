@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "連絡先",
+        "expectedValue": "見込金額",
+        "lead": "見込み顧客",
+        "leadManagement": "見込み顧客管理",
+        "leadSource": "見込み顧客の獲得元",
+        "leadSources": "見込み顧客の獲得元",
+        "leads": "見込み顧客",
+        "nextFollowUpDate": "次回フォローアップ日"
+    },
+    "panel": {
+        "assignedPerson": "担当者"
+    }
+}

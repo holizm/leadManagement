@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "Kontakpersoon",
+        "expectedValue": "Verwagte waarde",
+        "lead": "Potensiële klant",
+        "leadManagement": "Bestuur van potensiële klante",
+        "leadSource": "Bron van potensiële klant",
+        "leadSources": "Bronne van potensiële klante",
+        "leads": "Potensiële klante",
+        "nextFollowUpDate": "Volgende opvolgdatum"
+    },
+    "panel": {
+        "assignedPerson": "Toegewysde persoon"
+    }
+}

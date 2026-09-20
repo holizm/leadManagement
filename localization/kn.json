@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "ಸಂಪರ್ಕ",
+        "expectedValue": "ನಿರೀಕ್ಷಿತ ಮೌಲ್ಯ",
+        "lead": "ಸಂಭಾವ್ಯ ಗ್ರಾಹಕ",
+        "leadManagement": "ಸಂಭಾವ್ಯ ಗ್ರಾಹಕರ ನಿರ್ವಹಣೆ",
+        "leadSource": "ಸಂಭಾವ್ಯ ಗ್ರಾಹಕರ ಮೂಲ",
+        "leadSources": "ಸಂಭಾವ್ಯ ಗ್ರಾಹಕರ ಮೂಲಗಳು",
+        "leads": "ಸಂಭಾವ್ಯ ಗ್ರಾಹಕರು",
+        "nextFollowUpDate": "ಮುಂದಿನ ಅನುಸರಣೆ ದಿನಾಂಕ"
+    },
+    "panel": {
+        "assignedPerson": "ನಿಯೋಜಿತ ವ್ಯಕ್ತಿ"
+    }
+}

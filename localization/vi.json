@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "Liên hệ",
+        "expectedValue": "Giá trị dự kiến",
+        "lead": "Khách hàng tiềm năng",
+        "leadManagement": "Quản lý khách hàng tiềm năng",
+        "leadSource": "Nguồn khách hàng tiềm năng",
+        "leadSources": "Nguồn khách hàng tiềm năng",
+        "leads": "Khách hàng tiềm năng",
+        "nextFollowUpDate": "Ngày theo dõi tiếp theo"
+    },
+    "panel": {
+        "assignedPerson": "Người phụ trách"
+    }
+}

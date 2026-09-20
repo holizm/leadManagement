@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "Kenalan",
+        "expectedValue": "Nilai jangkaan",
+        "lead": "Bakal pelanggan",
+        "leadManagement": "Pengurusan bakal pelanggan",
+        "leadSource": "Sumber bakal pelanggan",
+        "leadSources": "Sumber bakal pelanggan",
+        "leads": "Bakal pelanggan",
+        "nextFollowUpDate": "Tarikh susulan seterusnya"
+    },
+    "panel": {
+        "assignedPerson": "Pegawai bertanggungjawab"
+    }
+}

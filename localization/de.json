@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "Kontakt",
+        "expectedValue": "Erwarteter Wert",
+        "lead": "Interessent",
+        "leadManagement": "Interessentenverwaltung",
+        "leadSource": "Interessentenquelle",
+        "leadSources": "Interessentenquellen",
+        "leads": "Interessenten",
+        "nextFollowUpDate": "Nächster Nachverfolgungstermin"
+    },
+    "panel": {
+        "assignedPerson": "Zuständige Person"
+    }
+}

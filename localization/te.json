@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "సంప్రదింపు",
+        "expectedValue": "అంచనా విలువ",
+        "lead": "సంభావ్య కస్టమర్",
+        "leadManagement": "సంభావ్య కస్టమర్ల నిర్వహణ",
+        "leadSource": "సంభావ్య కస్టమర్ మూలం",
+        "leadSources": "సంభావ్య కస్టమర్ మూలాలు",
+        "leads": "సంభావ్య కస్టమర్లు",
+        "nextFollowUpDate": "తదుపరి అనుసరణ తేదీ"
+    },
+    "panel": {
+        "assignedPerson": "బాధ్యత అప్పగించిన వ్యక్తి"
+    }
+}

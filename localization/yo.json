@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "Olùbásọ̀rọ̀",
+        "expectedValue": "Iye tí a retí",
+        "lead": "Oníbàárà tó ṣeé ṣe",
+        "leadManagement": "Ìṣàkóso àwọn oníbàárà tó ṣeé ṣe",
+        "leadSource": "Orísun oníbàárà tó ṣeé ṣe",
+        "leadSources": "Àwọn orísun oníbàárà tó ṣeé ṣe",
+        "leads": "Àwọn oníbàárà tó ṣeé ṣe",
+        "nextFollowUpDate": "Ọjọ́ ìtẹ̀lé tó kàn"
+    },
+    "panel": {
+        "assignedPerson": "Ẹni tí a yàn"
+    }
+}

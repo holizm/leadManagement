@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "رابطہ",
+        "expectedValue": "متوقع مالیت",
+        "lead": "ممکنہ گاہک",
+        "leadManagement": "ممکنہ گاہکوں کا انتظام",
+        "leadSource": "ممکنہ گاہک کا ذریعہ",
+        "leadSources": "ممکنہ گاہکوں کے ذرائع",
+        "leads": "ممکنہ گاہک",
+        "nextFollowUpDate": "اگلی پیروی کی تاریخ"
+    },
+    "panel": {
+        "assignedPerson": "ذمہ دار شخص"
+    }
+}

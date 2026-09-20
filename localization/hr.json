@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "Kontakt",
+        "expectedValue": "Očekivana vrijednost",
+        "lead": "Potencijalni klijent",
+        "leadManagement": "Upravljanje potencijalnim klijentima",
+        "leadSource": "Izvor potencijalnog klijenta",
+        "leadSources": "Izvori potencijalnih klijenata",
+        "leads": "Potencijalni klijenti",
+        "nextFollowUpDate": "Datum sljedećeg praćenja"
+    },
+    "panel": {
+        "assignedPerson": "Odgovorna osoba"
+    }
+}

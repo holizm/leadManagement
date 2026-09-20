@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "Kapcsolattartó",
+        "expectedValue": "Várható érték",
+        "lead": "Potenciális ügyfél",
+        "leadManagement": "Potenciális ügyfelek kezelése",
+        "leadSource": "Potenciális ügyfél forrása",
+        "leadSources": "Potenciális ügyfelek forrásai",
+        "leads": "Potenciális ügyfelek",
+        "nextFollowUpDate": "Következő kapcsolatfelvétel dátuma"
+    },
+    "panel": {
+        "assignedPerson": "Felelős személy"
+    }
+}

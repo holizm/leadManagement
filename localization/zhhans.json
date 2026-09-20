@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "联系人",
+        "expectedValue": "预期价值",
+        "lead": "潜在客户",
+        "leadManagement": "潜在客户管理",
+        "leadSource": "潜在客户来源",
+        "leadSources": "潜在客户来源",
+        "leads": "潜在客户",
+        "nextFollowUpDate": "下次跟进日期"
+    },
+    "panel": {
+        "assignedPerson": "负责人"
+    }
+}

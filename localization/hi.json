@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "संपर्क",
+        "expectedValue": "अपेक्षित मूल्य",
+        "lead": "संभावित ग्राहक",
+        "leadManagement": "संभावित ग्राहक प्रबंधन",
+        "leadSource": "संभावित ग्राहक का स्रोत",
+        "leadSources": "संभावित ग्राहकों के स्रोत",
+        "leads": "संभावित ग्राहक",
+        "nextFollowUpDate": "अगली फ़ॉलो-अप तिथि"
+    },
+    "panel": {
+        "assignedPerson": "नियुक्त व्यक्ति"
+    }
+}

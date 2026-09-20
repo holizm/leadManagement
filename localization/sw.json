@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "Mwasiliani",
+        "expectedValue": "Thamani inayotarajiwa",
+        "lead": "Mteja mtarajiwa",
+        "leadManagement": "Usimamizi wa wateja watarajiwa",
+        "leadSource": "Chanzo cha mteja mtarajiwa",
+        "leadSources": "Vyanzo vya wateja watarajiwa",
+        "leads": "Wateja watarajiwa",
+        "nextFollowUpDate": "Tarehe ya ufuatiliaji unaofuata"
+    },
+    "panel": {
+        "assignedPerson": "Mhusika aliyepewa jukumu"
+    }
+}

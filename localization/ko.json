@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "연락처",
+        "expectedValue": "예상 가치",
+        "lead": "잠재 고객",
+        "leadManagement": "잠재 고객 관리",
+        "leadSource": "잠재 고객 유입 경로",
+        "leadSources": "잠재 고객 유입 경로",
+        "leads": "잠재 고객",
+        "nextFollowUpDate": "다음 후속 조치일"
+    },
+    "panel": {
+        "assignedPerson": "담당자"
+    }
+}

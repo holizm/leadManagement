@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "Contact",
+        "expectedValue": "Valeur attendue",
+        "lead": "Prospect",
+        "leadManagement": "Gestion des prospects",
+        "leadSource": "Source du prospect",
+        "leadSources": "Sources des prospects",
+        "leads": "Prospects",
+        "nextFollowUpDate": "Date de la prochaine relance"
+    },
+    "panel": {
+        "assignedPerson": "Personne responsable"
+    }
+}

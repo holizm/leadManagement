@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "સંપર્ક",
+        "expectedValue": "અપેક્ષિત મૂલ્ય",
+        "lead": "સંભવિત ગ્રાહક",
+        "leadManagement": "સંભવિત ગ્રાહક સંચાલન",
+        "leadSource": "સંભવિત ગ્રાહકનો સ્ત્રોત",
+        "leadSources": "સંભવિત ગ્રાહકોના સ્ત્રોત",
+        "leads": "સંભવિત ગ્રાહકો",
+        "nextFollowUpDate": "આગામી અનુસરણ તારીખ"
+    },
+    "panel": {
+        "assignedPerson": "સોંપાયેલ વ્યક્તિ"
+    }
+}

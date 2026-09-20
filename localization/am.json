@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "እውቂያ",
+        "expectedValue": "የሚጠበቀው ዋጋ",
+        "lead": "ደንበኛ ሊሆን የሚችል",
+        "leadManagement": "ደንበኛ ሊሆኑ የሚችሉ ሰዎች አስተዳደር",
+        "leadSource": "የደንበኛ ምንጭ",
+        "leadSources": "የደንበኛ ምንጮች",
+        "leads": "ደንበኛ ሊሆኑ የሚችሉ",
+        "nextFollowUpDate": "የሚቀጥለው ክትትል ቀን"
+    },
+    "panel": {
+        "assignedPerson": "ኃላፊነት የተሰጠው ሰው"
+    }
+}

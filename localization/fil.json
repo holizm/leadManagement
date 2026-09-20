@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "Contact",
+        "expectedValue": "Inaasahang halaga",
+        "lead": "Prospect",
+        "leadManagement": "Pamamahala ng mga prospect",
+        "leadSource": "Pinagmulan ng prospect",
+        "leadSources": "Mga pinagmulan ng prospect",
+        "leads": "Mga prospect",
+        "nextFollowUpDate": "Petsa ng susunod na follow-up"
+    },
+    "panel": {
+        "assignedPerson": "Taong nakatalaga"
+    }
+}

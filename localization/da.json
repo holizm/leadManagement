@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contact": "Kontakt",
+        "expectedValue": "Forventet værdi",
+        "lead": "Potentiel kunde",
+        "leadManagement": "Håndtering af potentielle kunder",
+        "leadSource": "Kilde til potentiel kunde",
+        "leadSources": "Kilder til potentielle kunder",
+        "leads": "Potentielle kunder",
+        "nextFollowUpDate": "Dato for næste opfølgning"
+    },
+    "panel": {
+        "assignedPerson": "Ansvarlig person"
+    }
+}
