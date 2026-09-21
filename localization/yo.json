@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "Olùbásọ̀rọ̀",
-        "expectedValue": "Iye tí a retí",
         "lead": "Oníbàárà tó ṣeé ṣe",
+        "leadActivities": "Àwọn ìṣe oníbàárà tó ṣeé ṣe",
+        "leadActivity": "Ìṣe oníbàárà tó ṣeé ṣe",
+        "leadConversion": "Ìyípadà oníbàárà tó ṣeé ṣe",
+        "leadConversions": "Àwọn ìyípadà oníbàárà tó ṣeé ṣe",
         "leadManagement": "Ìṣàkóso àwọn oníbàárà tó ṣeé ṣe",
         "leadSource": "Orísun oníbàárà tó ṣeé ṣe",
         "leadSources": "Àwọn orísun oníbàárà tó ṣeé ṣe",
-        "leads": "Àwọn oníbàárà tó ṣeé ṣe",
-        "nextFollowUpDate": "Ọjọ́ ìtẹ̀lé tó kàn"
+        "leads": "Àwọn oníbàárà tó ṣeé ṣe"
     },
     "panel": {
         "assignedPerson": "Ẹni tí a yàn"

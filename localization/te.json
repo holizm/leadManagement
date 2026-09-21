@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "సంప్రదింపు",
-        "expectedValue": "అంచనా విలువ",
         "lead": "సంభావ్య కస్టమర్",
+        "leadActivities": "లీడ్ కార్యకలాపాలు",
+        "leadActivity": "లీడ్ కార్యకలాపం",
+        "leadConversion": "లీడ్ మార్పిడి",
+        "leadConversions": "లీడ్ మార్పిడులు",
         "leadManagement": "సంభావ్య కస్టమర్ల నిర్వహణ",
         "leadSource": "సంభావ్య కస్టమర్ మూలం",
         "leadSources": "సంభావ్య కస్టమర్ మూలాలు",
-        "leads": "సంభావ్య కస్టమర్లు",
-        "nextFollowUpDate": "తదుపరి అనుసరణ తేదీ"
+        "leads": "సంభావ్య కస్టమర్లు"
     },
     "panel": {
         "assignedPerson": "బాధ్యత అప్పగించిన వ్యక్తి"

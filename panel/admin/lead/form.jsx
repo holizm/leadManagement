@@ -16,7 +16,7 @@ const inputs = <>
         required
     />
     <Text
-        placeholder='leadManagementContact'
+        placeholder='coreContact'
         property='contact'
         required
     />
@@ -51,11 +51,11 @@ const inputs = <>
         property='assignedPerson'
     />
     <Numeric
-        placeholder='leadManagementExpectedValue'
+        placeholder='coreExpectedValue'
         property='expectedValue'
     />
     <DateTime
-        placeholder='leadManagementNextFollowUpDate'
+        placeholder='coreNextFollowUpDate'
         property='nextFollowUpDate'
     />
     <LongText

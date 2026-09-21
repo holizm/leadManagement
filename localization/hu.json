@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "Kapcsolattartó",
-        "expectedValue": "Várható érték",
         "lead": "Potenciális ügyfél",
+        "leadActivities": "Érdeklődői tevékenységek",
+        "leadActivity": "Érdeklődői tevékenység",
+        "leadConversion": "Érdeklődő konverziója",
+        "leadConversions": "Érdeklődők konverziói",
         "leadManagement": "Potenciális ügyfelek kezelése",
         "leadSource": "Potenciális ügyfél forrása",
         "leadSources": "Potenciális ügyfelek forrásai",
-        "leads": "Potenciális ügyfelek",
-        "nextFollowUpDate": "Következő kapcsolatfelvétel dátuma"
+        "leads": "Potenciális ügyfelek"
     },
     "panel": {
         "assignedPerson": "Felelős személy"

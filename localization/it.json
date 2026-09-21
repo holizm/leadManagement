@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "Contatto",
-        "expectedValue": "Valore previsto",
         "lead": "Potenziale cliente",
+        "leadActivities": "Attività dei lead",
+        "leadActivity": "Attività del lead",
+        "leadConversion": "Conversione del lead",
+        "leadConversions": "Conversioni dei lead",
         "leadManagement": "Gestione dei potenziali clienti",
         "leadSource": "Origine del potenziale cliente",
         "leadSources": "Origini dei potenziali clienti",
-        "leads": "Potenziali clienti",
-        "nextFollowUpDate": "Data del prossimo ricontatto"
+        "leads": "Potenziali clienti"
     },
     "panel": {
         "assignedPerson": "Persona assegnata"

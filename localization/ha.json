@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "Abokin hulɗa",
-        "expectedValue": "Ƙimar da ake sa ran samu",
         "lead": "Abokin ciniki mai yiwuwa",
+        "leadActivities": "Ayyukan jagorori",
+        "leadActivity": "Ayyukan jagora",
+        "leadConversion": "Juyawar jagora",
+        "leadConversions": "Juyawar jagorori",
         "leadManagement": "Gudanar da abokan ciniki masu yiwuwa",
         "leadSource": "Tushen abokin ciniki mai yiwuwa",
         "leadSources": "Tushen abokan ciniki masu yiwuwa",
-        "leads": "Abokan ciniki masu yiwuwa",
-        "nextFollowUpDate": "Ranar bibiya ta gaba"
+        "leads": "Abokan ciniki masu yiwuwa"
     },
     "panel": {
         "assignedPerson": "Wanda aka ɗora wa alhaki"

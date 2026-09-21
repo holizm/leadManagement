@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "Yhteyshenkilö",
-        "expectedValue": "Odotettu arvo",
         "lead": "Potentiaalinen asiakas",
+        "leadActivities": "Liidien aktiviteetit",
+        "leadActivity": "Liidin aktiviteetti",
+        "leadConversion": "Liidin konversio",
+        "leadConversions": "Liidien konversiot",
         "leadManagement": "Potentiaalisten asiakkaiden hallinta",
         "leadSource": "Potentiaalisen asiakkaan lähde",
         "leadSources": "Potentiaalisten asiakkaiden lähteet",
-        "leads": "Potentiaaliset asiakkaat",
-        "nextFollowUpDate": "Seuraava yhteydenottopäivä"
+        "leads": "Potentiaaliset asiakkaat"
     },
     "panel": {
         "assignedPerson": "Vastuuhenkilö"

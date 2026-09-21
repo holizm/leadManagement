@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "संपर्क",
-        "expectedValue": "अपेक्षित मूल्य",
         "lead": "संभाव्य ग्राहक",
+        "leadActivities": "लीड क्रियाकलाप",
+        "leadActivity": "लीड क्रियाकलाप",
+        "leadConversion": "लीड रूपांतरण",
+        "leadConversions": "लीड रूपांतरणे",
         "leadManagement": "संभाव्य ग्राहक व्यवस्थापन",
         "leadSource": "संभाव्य ग्राहकाचा स्रोत",
         "leadSources": "संभाव्य ग्राहकांचे स्रोत",
-        "leads": "संभाव्य ग्राहक",
-        "nextFollowUpDate": "पुढील पाठपुरावा तारीख"
+        "leads": "संभाव्य ग्राहक"
     },
     "panel": {
         "assignedPerson": "नियुक्त व्यक्ती"

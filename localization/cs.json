@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "Kontakt",
-        "expectedValue": "Očekávaná hodnota",
         "lead": "Potenciální zákazník",
+        "leadActivities": "Aktivity potenciálních zákazníků",
+        "leadActivity": "Aktivita potenciálního zákazníka",
+        "leadConversion": "Konverze potenciálního zákazníka",
+        "leadConversions": "Konverze potenciálních zákazníků",
         "leadManagement": "Správa potenciálních zákazníků",
         "leadSource": "Zdroj potenciálního zákazníka",
         "leadSources": "Zdroje potenciálních zákazníků",
-        "leads": "Potenciální zákazníci",
-        "nextFollowUpDate": "Datum dalšího kontaktu"
+        "leads": "Potenciální zákazníci"
     },
     "panel": {
         "assignedPerson": "Odpovědná osoba"

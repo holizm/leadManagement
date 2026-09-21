@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "Contactpersoon",
-        "expectedValue": "Verwachte waarde",
         "lead": "Potentiële klant",
+        "leadActivities": "Leadactiviteiten",
+        "leadActivity": "Leadactiviteit",
+        "leadConversion": "Leadconversie",
+        "leadConversions": "Leadconversies",
         "leadManagement": "Beheer van potentiële klanten",
         "leadSource": "Herkomst van potentiële klant",
         "leadSources": "Herkomstbronnen van potentiële klanten",
-        "leads": "Potentiële klanten",
-        "nextFollowUpDate": "Datum volgende opvolging"
+        "leads": "Potentiële klanten"
     },
     "panel": {
         "assignedPerson": "Toegewezen persoon"

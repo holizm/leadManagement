@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "ਸੰਪਰਕ",
-        "expectedValue": "ਅਨੁਮਾਨਿਤ ਮੁੱਲ",
         "lead": "ਸੰਭਾਵੀ ਗਾਹਕ",
+        "leadActivities": "ਲੀਡ ਗਤੀਵਿਧੀਆਂ",
+        "leadActivity": "ਲੀਡ ਗਤੀਵਿਧੀ",
+        "leadConversion": "ਲੀਡ ਰੂਪਾਂਤਰਨ",
+        "leadConversions": "ਲੀਡ ਰੂਪਾਂਤਰਨ",
         "leadManagement": "ਸੰਭਾਵੀ ਗਾਹਕ ਪ੍ਰਬੰਧਨ",
         "leadSource": "ਸੰਭਾਵੀ ਗਾਹਕ ਦਾ ਸਰੋਤ",
         "leadSources": "ਸੰਭਾਵੀ ਗਾਹਕਾਂ ਦੇ ਸਰੋਤ",
-        "leads": "ਸੰਭਾਵੀ ਗਾਹਕ",
-        "nextFollowUpDate": "ਅਗਲੀ ਫਾਲੋ-ਅੱਪ ਮਿਤੀ"
+        "leads": "ਸੰਭਾਵੀ ਗਾਹਕ"
     },
     "panel": {
         "assignedPerson": "ਜ਼ਿੰਮੇਵਾਰ ਵਿਅਕਤੀ"

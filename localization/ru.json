@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "Контакт",
-        "expectedValue": "Ожидаемая сумма",
         "lead": "Потенциальный клиент",
+        "leadActivities": "Активности лидов",
+        "leadActivity": "Активность лида",
+        "leadConversion": "Конверсия лида",
+        "leadConversions": "Конверсии лидов",
         "leadManagement": "Управление потенциальными клиентами",
         "leadSource": "Источник потенциального клиента",
         "leadSources": "Источники потенциальных клиентов",
-        "leads": "Потенциальные клиенты",
-        "nextFollowUpDate": "Дата следующего контакта"
+        "leads": "Потенциальные клиенты"
     },
     "panel": {
         "assignedPerson": "Ответственный"

@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "Контакт",
-        "expectedValue": "Очікувана вартість",
         "lead": "Потенційний клієнт",
+        "leadActivities": "Активності лідів",
+        "leadActivity": "Активність ліда",
+        "leadConversion": "Конверсія ліда",
+        "leadConversions": "Конверсії лідів",
         "leadManagement": "Керування потенційними клієнтами",
         "leadSource": "Джерело потенційного клієнта",
         "leadSources": "Джерела потенційних клієнтів",
-        "leads": "Потенційні клієнти",
-        "nextFollowUpDate": "Дата наступного контакту"
+        "leads": "Потенційні клієнти"
     },
     "panel": {
         "assignedPerson": "Відповідальна особа"

@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "איש קשר",
-        "expectedValue": "ערך צפוי",
         "lead": "לקוח פוטנציאלי",
+        "leadActivities": "פעילויות לידים",
+        "leadActivity": "פעילות ליד",
+        "leadConversion": "המרת ליד",
+        "leadConversions": "המרות לידים",
         "leadManagement": "ניהול לקוחות פוטנציאליים",
         "leadSource": "מקור הלקוח הפוטנציאלי",
         "leadSources": "מקורות לקוחות פוטנציאליים",
-        "leads": "לקוחות פוטנציאליים",
-        "nextFollowUpDate": "תאריך המעקב הבא"
+        "leads": "לקוחות פוטנציאליים"
     },
     "panel": {
         "assignedPerson": "אחראי"

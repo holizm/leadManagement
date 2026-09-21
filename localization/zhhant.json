@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "聯絡人",
-        "expectedValue": "預期價值",
         "lead": "潛在客戶",
+        "leadActivities": "潛在客戶活動",
+        "leadActivity": "潛在客戶活動",
+        "leadConversion": "潛在客戶轉換",
+        "leadConversions": "潛在客戶轉換",
         "leadManagement": "潛在客戶管理",
         "leadSource": "潛在客戶來源",
         "leadSources": "潛在客戶來源",
-        "leads": "潛在客戶",
-        "nextFollowUpDate": "下次跟進日期"
+        "leads": "潛在客戶"
     },
     "panel": {
         "assignedPerson": "負責人"

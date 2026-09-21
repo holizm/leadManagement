@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "İletişim kişisi",
-        "expectedValue": "Beklenen değer",
         "lead": "Potansiyel müşteri",
+        "leadActivities": "Potansiyel müşteri etkinlikleri",
+        "leadActivity": "Potansiyel müşteri etkinliği",
+        "leadConversion": "Potansiyel müşteri dönüşümü",
+        "leadConversions": "Potansiyel müşteri dönüşümleri",
         "leadManagement": "Potansiyel müşteri yönetimi",
         "leadSource": "Potansiyel müşteri kaynağı",
         "leadSources": "Potansiyel müşteri kaynakları",
-        "leads": "Potansiyel müşteriler",
-        "nextFollowUpDate": "Sonraki takip tarihi"
+        "leads": "Potansiyel müşteriler"
     },
     "panel": {
         "assignedPerson": "Atanan kişi"

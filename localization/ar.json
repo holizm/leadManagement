@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "جهة الاتصال",
-        "expectedValue": "القيمة المتوقعة",
         "lead": "عميل محتمل",
+        "leadActivities": "أنشطة العملاء المحتملين",
+        "leadActivity": "نشاط عميل محتمل",
+        "leadConversion": "تحويل عميل محتمل",
+        "leadConversions": "تحويلات العملاء المحتملين",
         "leadManagement": "إدارة العملاء المحتملين",
         "leadSource": "مصدر العميل المحتمل",
         "leadSources": "مصادر العملاء المحتملين",
-        "leads": "العملاء المحتملون",
-        "nextFollowUpDate": "تاريخ المتابعة التالية"
+        "leads": "العملاء المحتملون"
     },
     "panel": {
         "assignedPerson": "الشخص المسؤول"

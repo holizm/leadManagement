@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "Kontak",
-        "expectedValue": "Nilai perkiraan",
         "lead": "Calon pelanggan",
+        "leadActivities": "Aktivitas prospek",
+        "leadActivity": "Aktivitas prospek",
+        "leadConversion": "Konversi prospek",
+        "leadConversions": "Konversi prospek",
         "leadManagement": "Manajemen calon pelanggan",
         "leadSource": "Sumber calon pelanggan",
         "leadSources": "Sumber calon pelanggan",
-        "leads": "Calon pelanggan",
-        "nextFollowUpDate": "Tanggal tindak lanjut berikutnya"
+        "leads": "Calon pelanggan"
     },
     "panel": {
         "assignedPerson": "Penanggung jawab"

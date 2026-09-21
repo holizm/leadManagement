@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "Kontakt",
-        "expectedValue": "Forventet verdi",
         "lead": "Potensiell kunde",
+        "leadActivities": "Leadaktiviteter",
+        "leadActivity": "Leadaktivitet",
+        "leadConversion": "Leadkonvertering",
+        "leadConversions": "Leadkonverteringer",
         "leadManagement": "Håndtering av potensielle kunder",
         "leadSource": "Kilde til potensiell kunde",
         "leadSources": "Kilder til potensielle kunder",
-        "leads": "Potensielle kunder",
-        "nextFollowUpDate": "Dato for neste oppfølging"
+        "leads": "Potensielle kunder"
     },
     "panel": {
         "assignedPerson": "Ansvarlig person"

@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "Contact",
-        "expectedValue": "Expected value",
         "lead": "Lead",
+        "leadActivities": "Lead activities",
+        "leadActivity": "Lead activity",
+        "leadConversion": "Lead conversion",
+        "leadConversions": "Lead conversions",
         "leadManagement": "Lead management",
         "leadSource": "Lead source",
         "leadSources": "Lead sources",
-        "leads": "Leads",
-        "nextFollowUpDate": "Next follow-up date"
+        "leads": "Leads"
     },
     "panel": {
         "assignedPerson": "Assigned person"

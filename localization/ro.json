@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "Contact",
-        "expectedValue": "Valoare estimată",
         "lead": "Client potențial",
+        "leadActivities": "Activități ale clienților potențiali",
+        "leadActivity": "Activitate a clientului potențial",
+        "leadConversion": "Conversie a clientului potențial",
+        "leadConversions": "Conversii ale clienților potențiali",
         "leadManagement": "Gestionarea clienților potențiali",
         "leadSource": "Sursa clientului potențial",
         "leadSources": "Sursele clienților potențiali",
-        "leads": "Clienți potențiali",
-        "nextFollowUpDate": "Data următoarei reveniri"
+        "leads": "Clienți potențiali"
     },
     "panel": {
         "assignedPerson": "Persoană responsabilă"

@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "Kontakt",
-        "expectedValue": "Erwarteter Wert",
         "lead": "Interessent",
+        "leadActivities": "Lead-Aktivitäten",
+        "leadActivity": "Lead-Aktivität",
+        "leadConversion": "Lead-Konvertierung",
+        "leadConversions": "Lead-Konvertierungen",
         "leadManagement": "Interessentenverwaltung",
         "leadSource": "Interessentenquelle",
         "leadSources": "Interessentenquellen",
-        "leads": "Interessenten",
-        "nextFollowUpDate": "Nächster Nachverfolgungstermin"
+        "leads": "Interessenten"
     },
     "panel": {
         "assignedPerson": "Zuständige Person"

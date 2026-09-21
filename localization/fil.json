@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "Contact",
-        "expectedValue": "Inaasahang halaga",
         "lead": "Prospect",
+        "leadActivities": "Mga aktibidad ng lead",
+        "leadActivity": "Aktibidad ng lead",
+        "leadConversion": "Conversion ng lead",
+        "leadConversions": "Mga conversion ng lead",
         "leadManagement": "Pamamahala ng mga prospect",
         "leadSource": "Pinagmulan ng prospect",
         "leadSources": "Mga pinagmulan ng prospect",
-        "leads": "Mga prospect",
-        "nextFollowUpDate": "Petsa ng susunod na follow-up"
+        "leads": "Mga prospect"
     },
     "panel": {
         "assignedPerson": "Taong nakatalaga"

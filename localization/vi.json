@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "Liên hệ",
-        "expectedValue": "Giá trị dự kiến",
         "lead": "Khách hàng tiềm năng",
+        "leadActivities": "Các hoạt động khách hàng tiềm năng",
+        "leadActivity": "Hoạt động khách hàng tiềm năng",
+        "leadConversion": "Chuyển đổi khách hàng tiềm năng",
+        "leadConversions": "Các chuyển đổi khách hàng tiềm năng",
         "leadManagement": "Quản lý khách hàng tiềm năng",
         "leadSource": "Nguồn khách hàng tiềm năng",
         "leadSources": "Nguồn khách hàng tiềm năng",
-        "leads": "Khách hàng tiềm năng",
-        "nextFollowUpDate": "Ngày theo dõi tiếp theo"
+        "leads": "Khách hàng tiềm năng"
     },
     "panel": {
         "assignedPerson": "Người phụ trách"

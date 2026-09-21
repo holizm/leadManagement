@@ -9,9 +9,9 @@ import Form from './form'
 const headers = <>
     <th start>leadManagementLead</th>
     <th>leadManagementNumber</th>
-    <th>leadManagementContact</th>
+    <th>coreContact</th>
     <th>leadManagementAssignedPerson</th>
-    <th>leadManagementNextFollowUpDate</th>
+    <th>coreNextFollowUpDate</th>
     <th>stateMachinesState</th>
 </>
 

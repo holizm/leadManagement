@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "رابطہ",
-        "expectedValue": "متوقع مالیت",
         "lead": "ممکنہ گاہک",
+        "leadActivities": "ممکنہ گاہک کی سرگرمیاں",
+        "leadActivity": "ممکنہ گاہک کی سرگرمی",
+        "leadConversion": "ممکنہ گاہک کی تبدیلی",
+        "leadConversions": "ممکنہ گاہک کی تبدیلیاں",
         "leadManagement": "ممکنہ گاہکوں کا انتظام",
         "leadSource": "ممکنہ گاہک کا ذریعہ",
         "leadSources": "ممکنہ گاہکوں کے ذرائع",
-        "leads": "ممکنہ گاہک",
-        "nextFollowUpDate": "اگلی پیروی کی تاریخ"
+        "leads": "ممکنہ گاہک"
     },
     "panel": {
         "assignedPerson": "ذمہ دار شخص"

@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "مخاطب",
-        "expectedValue": "ارزش مورد انتظار",
         "lead": "سرنخ فروش",
+        "leadActivities": "فعالیت‌های سرنخ",
+        "leadActivity": "فعالیت سرنخ",
+        "leadConversion": "تبدیل سرنخ",
+        "leadConversions": "تبدیل‌های سرنخ",
         "leadManagement": "مدیریت سرنخ‌ها",
         "leadSource": "منبع سرنخ",
         "leadSources": "منابع سرنخ",
-        "leads": "سرنخ‌ها",
-        "nextFollowUpDate": "تاریخ پیگیری بعدی"
+        "leads": "سرنخ‌ها"
     },
     "panel": {
         "assignedPerson": "مسئول پیگیری"

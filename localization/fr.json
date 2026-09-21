@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "Contact",
-        "expectedValue": "Valeur attendue",
         "lead": "Prospect",
+        "leadActivities": "Activités de prospects",
+        "leadActivity": "Activité de prospect",
+        "leadConversion": "Conversion de prospect",
+        "leadConversions": "Conversions de prospects",
         "leadManagement": "Gestion des prospects",
         "leadSource": "Source du prospect",
         "leadSources": "Sources des prospects",
-        "leads": "Prospects",
-        "nextFollowUpDate": "Date de la prochaine relance"
+        "leads": "Prospects"
     },
     "panel": {
         "assignedPerson": "Personne responsable"

@@ -1,13 +1,14 @@
 {
     "common": {
-        "contact": "Kenalan",
-        "expectedValue": "Nilai jangkaan",
         "lead": "Bakal pelanggan",
+        "leadActivities": "Aktiviti prospek",
+        "leadActivity": "Aktiviti prospek",
+        "leadConversion": "Penukaran prospek",
+        "leadConversions": "Penukaran prospek",
         "leadManagement": "Pengurusan bakal pelanggan",
         "leadSource": "Sumber bakal pelanggan",
         "leadSources": "Sumber bakal pelanggan",
-        "leads": "Bakal pelanggan",
-        "nextFollowUpDate": "Tarikh susulan seterusnya"
+        "leads": "Bakal pelanggan"
     },
     "panel": {
         "assignedPerson": "Pegawai bertanggungjawab"
