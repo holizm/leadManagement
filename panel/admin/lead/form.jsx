@@ -11,17 +11,17 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='leadManagementNumber'
+        placeholder='number'
         property='number'
         required
     />
     <Text
-        placeholder='coreContact'
+        placeholder='contact'
         property='contact'
         required
     />
     <Text
-        placeholder='leadManagementLeadSource'
+        placeholder='leadSource'
         property='leadSource'
     />
     <Select
@@ -33,7 +33,7 @@ const inputs = <>
             'converted',
             'lost',
         ]}
-        placeholder='stateMachinesState'
+        placeholder='state'
         property='leadStatus'
         required
     />
@@ -43,23 +43,23 @@ const inputs = <>
             'normal',
             'high',
         ]}
-        placeholder='leadManagementPriority'
+        placeholder='priority'
         property='leadPriority'
     />
     <Text
-        placeholder='leadManagementAssignedPerson'
+        placeholder='assignedPerson'
         property='assignedPerson'
     />
     <Numeric
-        placeholder='coreExpectedValue'
+        placeholder='expectedValue'
         property='expectedValue'
     />
     <DateTime
-        placeholder='coreNextFollowUpDate'
+        placeholder='nextFollowUpDate'
         property='nextFollowUpDate'
     />
     <LongText
-        placeholder='leadManagementDescription'
+        placeholder='description'
         property='description'
     />
 </>

@@ -1,4 +1,4 @@
 export default <>
-    <th start>leadManagementLeadSource</th>
-    <th>leadManagementCode</th>
+    <th start>leadSource</th>
+    <th>code</th>
 </>

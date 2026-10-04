@@ -8,12 +8,12 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='leadManagementCode'
+        placeholder='code'
         property='code'
         required
     />
     <LongText
-        placeholder='leadManagementDescription'
+        placeholder='description'
         property='description'
     />
 </>

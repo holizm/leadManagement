@@ -1,8 +1,8 @@
 export default <>
-    <th start>leadManagementLead</th>
-    <th>leadManagementNumber</th>
-    <th>coreContact</th>
-    <th>leadManagementAssignedPerson</th>
-    <th>coreNextFollowUpDate</th>
-    <th>stateMachinesState</th>
+    <th start>lead</th>
+    <th>number</th>
+    <th>contact</th>
+    <th>assignedPerson</th>
+    <th>nextFollowUpDate</th>
+    <th>state</th>
 </>

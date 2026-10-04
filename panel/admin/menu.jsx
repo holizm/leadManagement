@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/leadManagement/lead/list',
-                title: 'leadManagementLeads',
+                title: 'leads',
             },
             {
                 path: '/leadManagement/leadSource/list',
-                title: 'leadManagementLeadSources',
+                title: 'leadSources',
             },
         ],
         icon: 'personSearch',
         path: '/leadManagement',
-        title: 'leadManagementLeadManagement',
+        title: 'leadManagement',
     },
 ]

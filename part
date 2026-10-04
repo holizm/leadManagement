@@ -35,6 +35,8 @@ lead
     nextFollowUpDate optional
     description optional
     unique number
+    uses
+        stateMachines
 leadActivity
     lead
     leadActivityType
