@@ -11,20 +11,16 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='number'
-        property='number'
+        number
         required
     />
     <Text
-        placeholder='contact'
-        property='contact'
+        contact
         required
     />
-    <Text
-        placeholder='leadSource'
-        property='leadSource'
-    />
+    <Text leadSource />
     <Select
+        leadStatus
         options={[
             'new',
             'contacted',
@@ -34,34 +30,21 @@ const inputs = <>
             'lost',
         ]}
         placeholder='state'
-        property='leadStatus'
         required
     />
     <Select
+        leadPriority
         options={[
             'low',
             'normal',
             'high',
         ]}
         placeholder='priority'
-        property='leadPriority'
     />
-    <Text
-        placeholder='assignedPerson'
-        property='assignedPerson'
-    />
-    <Numeric
-        placeholder='expectedValue'
-        property='expectedValue'
-    />
-    <DateTime
-        placeholder='nextFollowUpDate'
-        property='nextFollowUpDate'
-    />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <Text assignedPerson />
+    <Numeric expectedValue />
+    <DateTime nextFollowUpDate />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />
