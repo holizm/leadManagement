@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "مسئول پیگیری",
         "lead": "سرنخ فروش",
         "leadActivities": "فعالیت‌های سرنخ",
         "leadActivity": "فعالیت سرنخ",
@@ -9,8 +10,5 @@
         "leadSource": "منبع سرنخ",
         "leadSources": "منابع سرنخ",
         "leads": "سرنخ‌ها"
-    },
-    "panel": {
-        "assignedPerson": "مسئول پیگیری"
     }
 }

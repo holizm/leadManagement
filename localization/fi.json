@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Vastuuhenkilö",
         "lead": "Potentiaalinen asiakas",
         "leadActivities": "Liidien aktiviteetit",
         "leadActivity": "Liidin aktiviteetti",
@@ -9,8 +10,5 @@
         "leadSource": "Potentiaalisen asiakkaan lähde",
         "leadSources": "Potentiaalisten asiakkaiden lähteet",
         "leads": "Potentiaaliset asiakkaat"
-    },
-    "panel": {
-        "assignedPerson": "Vastuuhenkilö"
     }
 }

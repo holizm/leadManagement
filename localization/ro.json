@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Persoană responsabilă",
         "lead": "Client potențial",
         "leadActivities": "Activități ale clienților potențiali",
         "leadActivity": "Activitate a clientului potențial",
@@ -9,8 +10,5 @@
         "leadSource": "Sursa clientului potențial",
         "leadSources": "Sursele clienților potențiali",
         "leads": "Clienți potențiali"
-    },
-    "panel": {
-        "assignedPerson": "Persoană responsabilă"
     }
 }

@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Ansvarlig person",
         "lead": "Potentiel kunde",
         "leadActivities": "Leadaktiviteter",
         "leadActivity": "Leadaktivitet",
@@ -9,8 +10,5 @@
         "leadSource": "Kilde til potentiel kunde",
         "leadSources": "Kilder til potentielle kunder",
         "leads": "Potentielle kunder"
-    },
-    "panel": {
-        "assignedPerson": "Ansvarlig person"
     }
 }

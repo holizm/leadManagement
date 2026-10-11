@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Wanda aka ɗora wa alhaki",
         "lead": "Abokin ciniki mai yiwuwa",
         "leadActivities": "Ayyukan abokan ciniki masu yiwuwa",
         "leadActivity": "Aikin abokin ciniki mai yiwuwa",
@@ -9,8 +10,5 @@
         "leadSource": "Tushen abokin ciniki mai yiwuwa",
         "leadSources": "Tushen abokan ciniki masu yiwuwa",
         "leads": "Abokan ciniki masu yiwuwa"
-    },
-    "panel": {
-        "assignedPerson": "Wanda aka ɗora wa alhaki"
     }
 }

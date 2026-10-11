@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "ನಿಯೋಜಿತ ವ್ಯಕ್ತಿ",
         "lead": "ಸಂಭಾವ್ಯ ಗ್ರಾಹಕ",
         "leadActivities": "ಲೀಡ್ ಚಟುವಟಿಕೆಗಳು",
         "leadActivity": "ಲೀಡ್ ಚಟುವಟಿಕೆ",
@@ -9,8 +10,5 @@
         "leadSource": "ಸಂಭಾವ್ಯ ಗ್ರಾಹಕರ ಮೂಲ",
         "leadSources": "ಸಂಭಾವ್ಯ ಗ್ರಾಹಕರ ಮೂಲಗಳು",
         "leads": "ಸಂಭಾವ್ಯ ಗ್ರಾಹಕರು"
-    },
-    "panel": {
-        "assignedPerson": "ನಿಯೋಜಿತ ವ್ಯಕ್ತಿ"
     }
 }

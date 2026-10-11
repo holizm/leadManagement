@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "ኃላፊነት የተሰጠው ሰው",
         "lead": "ደንበኛ ሊሆን የሚችል",
         "leadActivities": "የደንበኛ ዕድሎች እንቅስቃሴዎች",
         "leadActivity": "የደንበኛ ዕድል እንቅስቃሴ",
@@ -9,8 +10,5 @@
         "leadSource": "የደንበኛ ምንጭ",
         "leadSources": "የደንበኛ ምንጮች",
         "leads": "ደንበኛ ሊሆኑ የሚችሉ"
-    },
-    "panel": {
-        "assignedPerson": "ኃላፊነት የተሰጠው ሰው"
     }
 }

@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "ذمہ دار شخص",
         "lead": "ممکنہ گاہک",
         "leadActivities": "ممکنہ گاہک کی سرگرمیاں",
         "leadActivity": "ممکنہ گاہک کی سرگرمی",
@@ -9,8 +10,5 @@
         "leadSource": "ممکنہ گاہک کا ذریعہ",
         "leadSources": "ممکنہ گاہکوں کے ذرائع",
         "leads": "ممکنہ گاہک"
-    },
-    "panel": {
-        "assignedPerson": "ذمہ دار شخص"
     }
 }

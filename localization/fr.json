@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Personne responsable",
         "lead": "Prospect",
         "leadActivities": "Activités de prospects",
         "leadActivity": "Activité de prospect",
@@ -9,8 +10,5 @@
         "leadSource": "Source du prospect",
         "leadSources": "Sources des prospects",
         "leads": "Prospects"
-    },
-    "panel": {
-        "assignedPerson": "Personne responsable"
     }
 }

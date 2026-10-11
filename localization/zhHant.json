@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "負責人",
         "lead": "潛在客戶",
         "leadActivities": "潛在客戶活動",
         "leadActivity": "潛在客戶活動",
@@ -9,8 +10,5 @@
         "leadSource": "潛在客戶來源",
         "leadSources": "潛在客戶來源",
         "leads": "潛在客戶"
-    },
-    "panel": {
-        "assignedPerson": "負責人"
     }
 }

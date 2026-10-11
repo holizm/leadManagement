@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Odpovědná osoba",
         "lead": "Potenciální zákazník",
         "leadActivities": "Aktivity potenciálních zákazníků",
         "leadActivity": "Aktivita potenciálního zákazníka",
@@ -9,8 +10,5 @@
         "leadSource": "Zdroj potenciálního zákazníka",
         "leadSources": "Zdroje potenciálních zákazníků",
         "leads": "Potenciální zákazníci"
-    },
-    "panel": {
-        "assignedPerson": "Odpovědná osoba"
     }
 }

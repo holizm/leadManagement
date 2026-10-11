@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Zuständige Person",
         "lead": "Interessent",
         "leadActivities": "Lead-Aktivitäten",
         "leadActivity": "Lead-Aktivität",
@@ -9,8 +10,5 @@
         "leadSource": "Interessentenquelle",
         "leadSources": "Interessentenquellen",
         "leads": "Interessenten"
-    },
-    "panel": {
-        "assignedPerson": "Zuständige Person"
     }
 }

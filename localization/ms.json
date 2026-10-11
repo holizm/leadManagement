@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Pegawai bertanggungjawab",
         "lead": "Bakal pelanggan",
         "leadActivities": "Aktiviti prospek",
         "leadActivity": "Aktiviti prospek",
@@ -9,8 +10,5 @@
         "leadSource": "Sumber bakal pelanggan",
         "leadSources": "Sumber bakal pelanggan",
         "leads": "Bakal pelanggan"
-    },
-    "panel": {
-        "assignedPerson": "Pegawai bertanggungjawab"
     }
 }

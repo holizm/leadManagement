@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Atanan kişi",
         "lead": "Potansiyel müşteri",
         "leadActivities": "Potansiyel müşteri etkinlikleri",
         "leadActivity": "Potansiyel müşteri etkinliği",
@@ -9,8 +10,5 @@
         "leadSource": "Potansiyel müşteri kaynağı",
         "leadSources": "Potansiyel müşteri kaynakları",
         "leads": "Potansiyel müşteriler"
-    },
-    "panel": {
-        "assignedPerson": "Atanan kişi"
     }
 }

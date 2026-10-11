@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "नियुक्त व्यक्ती",
         "lead": "संभाव्य ग्राहक",
         "leadActivities": "लीड क्रियाकलाप",
         "leadActivity": "लीड क्रियाकलाप",
@@ -9,8 +10,5 @@
         "leadSource": "संभाव्य ग्राहकाचा स्रोत",
         "leadSources": "संभाव्य ग्राहकांचे स्रोत",
         "leads": "संभाव्य ग्राहक"
-    },
-    "panel": {
-        "assignedPerson": "नियुक्त व्यक्ती"
     }
 }

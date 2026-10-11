@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "ਜ਼ਿੰਮੇਵਾਰ ਵਿਅਕਤੀ",
         "lead": "ਸੰਭਾਵੀ ਗਾਹਕ",
         "leadActivities": "ਲੀਡ ਗਤੀਵਿਧੀਆਂ",
         "leadActivity": "ਲੀਡ ਗਤੀਵਿਧੀ",
@@ -9,8 +10,5 @@
         "leadSource": "ਸੰਭਾਵੀ ਗਾਹਕ ਦਾ ਸਰੋਤ",
         "leadSources": "ਸੰਭਾਵੀ ਗਾਹਕਾਂ ਦੇ ਸਰੋਤ",
         "leads": "ਸੰਭਾਵੀ ਗਾਹਕ"
-    },
-    "panel": {
-        "assignedPerson": "ਜ਼ਿੰਮੇਵਾਰ ਵਿਅਕਤੀ"
     }
 }

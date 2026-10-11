@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Taong nakatalaga",
         "lead": "Prospect",
         "leadActivities": "Mga aktibidad ng lead",
         "leadActivity": "Aktibidad ng lead",
@@ -9,8 +10,5 @@
         "leadSource": "Pinagmulan ng prospect",
         "leadSources": "Mga pinagmulan ng prospect",
         "leads": "Mga prospect"
-    },
-    "panel": {
-        "assignedPerson": "Taong nakatalaga"
     }
 }

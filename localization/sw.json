@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Mhusika aliyepewa jukumu",
         "lead": "Mteja mtarajiwa",
         "leadActivities": "Shughuli za wateja tarajiwa",
         "leadActivity": "Shughuli ya mteja tarajiwa",
@@ -9,8 +10,5 @@
         "leadSource": "Chanzo cha mteja mtarajiwa",
         "leadSources": "Vyanzo vya wateja watarajiwa",
         "leads": "Wateja watarajiwa"
-    },
-    "panel": {
-        "assignedPerson": "Mhusika aliyepewa jukumu"
     }
 }

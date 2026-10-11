@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "الشخص المسؤول",
         "lead": "عميل محتمل",
         "leadActivities": "أنشطة العملاء المحتملين",
         "leadActivity": "نشاط عميل محتمل",
@@ -9,8 +10,5 @@
         "leadSource": "مصدر العميل المحتمل",
         "leadSources": "مصادر العملاء المحتملين",
         "leads": "العملاء المحتملون"
-    },
-    "panel": {
-        "assignedPerson": "الشخص المسؤول"
     }
 }

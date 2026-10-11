@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Toegewysde persoon",
         "lead": "Potensiële klant",
         "leadActivities": "Loodaktiwiteite",
         "leadActivity": "Loodaktiwiteit",
@@ -9,8 +10,5 @@
         "leadSource": "Bron van potensiële klant",
         "leadSources": "Bronne van potensiële klante",
         "leads": "Potensiële klante"
-    },
-    "panel": {
-        "assignedPerson": "Toegewysde persoon"
     }
 }

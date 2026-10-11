@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Người phụ trách",
         "lead": "Khách hàng tiềm năng",
         "leadActivities": "Các hoạt động khách hàng tiềm năng",
         "leadActivity": "Hoạt động khách hàng tiềm năng",
@@ -9,8 +10,5 @@
         "leadSource": "Nguồn khách hàng tiềm năng",
         "leadSources": "Nguồn khách hàng tiềm năng",
         "leads": "Khách hàng tiềm năng"
-    },
-    "panel": {
-        "assignedPerson": "Người phụ trách"
     }
 }

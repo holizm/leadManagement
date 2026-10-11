@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Assigned person",
         "lead": "Lead",
         "leadActivities": "Lead activities",
         "leadActivity": "Lead activity",
@@ -9,8 +10,5 @@
         "leadSource": "Lead source",
         "leadSources": "Lead sources",
         "leads": "Leads"
-    },
-    "panel": {
-        "assignedPerson": "Assigned person"
     }
 }
