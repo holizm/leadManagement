@@ -1,10 +1,10 @@
 {
     "common": {
         "lead": "Abokin ciniki mai yiwuwa",
-        "leadActivities": "Ayyukan jagorori",
-        "leadActivity": "Ayyukan jagora",
-        "leadConversion": "Juyawar jagora",
-        "leadConversions": "Juyawar jagorori",
+        "leadActivities": "Ayyukan abokan ciniki masu yiwuwa",
+        "leadActivity": "Aikin abokin ciniki mai yiwuwa",
+        "leadConversion": "Canjin abokin ciniki mai yiwuwa",
+        "leadConversions": "Canje-canjen abokan ciniki masu yiwuwa",
         "leadManagement": "Gudanar da abokan ciniki masu yiwuwa",
         "leadSource": "Tushen abokin ciniki mai yiwuwa",
         "leadSources": "Tushen abokan ciniki masu yiwuwa",

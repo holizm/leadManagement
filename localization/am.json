@@ -1,10 +1,10 @@
 {
     "common": {
         "lead": "ደንበኛ ሊሆን የሚችል",
-        "leadActivities": "የመሪ እንቅስቃሴዎች",
-        "leadActivity": "የመሪ እንቅስቃሴ",
-        "leadConversion": "የመሪ ልወጣ",
-        "leadConversions": "የመሪ ልወጣዎች",
+        "leadActivities": "የደንበኛ ዕድሎች እንቅስቃሴዎች",
+        "leadActivity": "የደንበኛ ዕድል እንቅስቃሴ",
+        "leadConversion": "የደንበኛ ዕድል ልወጣ",
+        "leadConversions": "የደንበኛ ዕድሎች ልወጣዎች",
         "leadManagement": "ደንበኛ ሊሆኑ የሚችሉ ሰዎች አስተዳደር",
         "leadSource": "የደንበኛ ምንጭ",
         "leadSources": "የደንበኛ ምንጮች",
