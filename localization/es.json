@@ -1,6 +1,5 @@
 {
     "common": {
-        "assignedPerson": "Persona asignada",
         "lead": "Cliente potencial",
         "leadActivities": "Actividades de clientes potenciales",
         "leadActivity": "Actividad de cliente potencial",
